@@ -1,1 +1,73 @@
-var _0xb4a912=_0x3919;(function(_0x16c820,_0x46b7b8){var _0x38fca4=_0x3919,_0x40ac57=_0x16c820();while(!![]){try{var _0x1054ce=parseInt(_0x38fca4(0x191))/0x1+parseInt(_0x38fca4(0x181))/0x2*(-parseInt(_0x38fca4(0x194))/0x3)+-parseInt(_0x38fca4(0x17f))/0x4*(parseInt(_0x38fca4(0x17b))/0x5)+parseInt(_0x38fca4(0x186))/0x6+-parseInt(_0x38fca4(0x199))/0x7*(-parseInt(_0x38fca4(0x19c))/0x8)+parseInt(_0x38fca4(0x188))/0x9+parseInt(_0x38fca4(0x18d))/0xa*(-parseInt(_0x38fca4(0x19e))/0xb);if(_0x1054ce===_0x46b7b8)break;else _0x40ac57['push'](_0x40ac57['shift']());}catch(_0x4a5c89){_0x40ac57['push'](_0x40ac57['shift']());}}}(_0x2d19,0x2523c));function show(){var _0x8489a=_0x3919;_0x8489a(0x197)==document[_0x8489a(0x18c)](_0x8489a(0x19b))[_0x8489a(0x187)]?(document[_0x8489a(0x18c)]('travel-link')[_0x8489a(0x180)][_0x8489a(0x18b)]='inline',document[_0x8489a(0x18c)]('output')['style']['display']=_0x8489a(0x18e),document['getElementById'](_0x8489a(0x1a0))[_0x8489a(0x180)][_0x8489a(0x18b)]=_0x8489a(0x18e)):(document[_0x8489a(0x18c)]('output')[_0x8489a(0x180)][_0x8489a(0x196)]='rgb(54,\x2053,\x2053)',document['getElementById'](_0x8489a(0x19b))[_0x8489a(0x187)]='',document[_0x8489a(0x18c)](_0x8489a(0x185))[_0x8489a(0x183)]=_0x8489a(0x1a3));}function showinfo(){var _0x529910=_0x3919;_0x529910(0x198)==document[_0x529910(0x18c)]('input-info')[_0x529910(0x187)]?(document[_0x529910(0x18c)](_0x529910(0x190))['style'][_0x529910(0x18b)]=_0x529910(0x18a),document['getElementById'](_0x529910(0x195))[_0x529910(0x180)][_0x529910(0x18b)]=_0x529910(0x18e),document['getElementById'](_0x529910(0x193))[_0x529910(0x180)][_0x529910(0x18b)]=_0x529910(0x18e)):(document[_0x529910(0x18c)]('output-info')[_0x529910(0x180)][_0x529910(0x196)]=_0x529910(0x1a4),document['getElementById']('input-info')['value']='',document[_0x529910(0x18c)](_0x529910(0x195))['innerHTML']=_0x529910(0x1a3));}function _0x2d19(){var _0x1496d1=['input-travel','504248mesxvM','restourantalireza','11TMzFFz','blockchain','form-travel','link-rest','ready','رمز\x20وارد\x20شده\x20اشتباه\x20است.لطفا\x20از\x20مدیر\x20وب\x20سایت\x20رمز\x20را\x20دریافت\x20نمایید','rgb(54,\x2053,\x2053)','74645PgePPE','first','link-block','fadeIn','24suyHLl','style','61966nszwsb','form-rest','innerHTML','input-blockchain','output','1046760GDIDbf','value','264276SzCNXb','output-block','inline','display','getElementById','2002390jsjXWx','none','input-rest','info-link','266966grDURc','output-rest','form-info','15OJFqNp','output-info','color','travel','information','14OKCqDV','#ul-navbar\x20li'];_0x2d19=function(){return _0x1496d1;};return _0x2d19();}function showrest(){var _0x8c20e1=_0x3919;_0x8c20e1(0x19d)==document[_0x8c20e1(0x18c)](_0x8c20e1(0x18f))[_0x8c20e1(0x187)]?(document[_0x8c20e1(0x18c)](_0x8c20e1(0x1a1))['style'][_0x8c20e1(0x18b)]=_0x8c20e1(0x18a),document['getElementById'](_0x8c20e1(0x192))[_0x8c20e1(0x180)]['display']=_0x8c20e1(0x18e),document['getElementById'](_0x8c20e1(0x182))[_0x8c20e1(0x180)]['display']='none'):(document['getElementById'](_0x8c20e1(0x192))[_0x8c20e1(0x180)][_0x8c20e1(0x196)]=_0x8c20e1(0x1a4),document[_0x8c20e1(0x18c)](_0x8c20e1(0x18f))['value']='',document[_0x8c20e1(0x18c)](_0x8c20e1(0x192))[_0x8c20e1(0x183)]=_0x8c20e1(0x1a3));}function _0x3919(_0x2e4286,_0x8bb6aa){var _0x2d1936=_0x2d19();return _0x3919=function(_0x391930,_0x3cb8db){_0x391930=_0x391930-0x17b;var _0x243b18=_0x2d1936[_0x391930];return _0x243b18;},_0x3919(_0x2e4286,_0x8bb6aa);}function showblock(){var _0x519b73=_0x3919;_0x519b73(0x19f)==document[_0x519b73(0x18c)](_0x519b73(0x184))['value']?(document[_0x519b73(0x18c)](_0x519b73(0x17d))[_0x519b73(0x180)][_0x519b73(0x18b)]=_0x519b73(0x18a),document[_0x519b73(0x18c)]('output-block')[_0x519b73(0x180)][_0x519b73(0x18b)]=_0x519b73(0x18e),document[_0x519b73(0x18c)]('form-block')['style'][_0x519b73(0x18b)]='none'):(document[_0x519b73(0x18c)]('output-block')['style'][_0x519b73(0x196)]=_0x519b73(0x1a4),document[_0x519b73(0x18c)](_0x519b73(0x184))[_0x519b73(0x187)]='',document[_0x519b73(0x18c)](_0x519b73(0x189))[_0x519b73(0x183)]=_0x519b73(0x1a3));}$(document)[_0xb4a912(0x1a2)](function(){var _0x482e6f=_0xb4a912;$(_0x482e6f(0x19a))[_0x482e6f(0x17c)]()[_0x482e6f(0x17e)](0x1f4,function _0x14c728(){var _0x199c05=_0x482e6f;$(this)['next']('li')[_0x199c05(0x17e)](0x1f4,_0x14c728);});});
+
+function show() {
+    let elem = document.getElementById("input-travel").value;
+    if (elem == "travel") {
+        document.getElementById("travel-link").style.display = "inline";
+        document.getElementById("output").style.display = "none";
+        document.getElementById("form-travel").style.display = "none";
+    } else {
+        document.getElementById("output").style.color = "rgb(54, 53, 53)";
+        document.getElementById("input-travel").value = "";
+        document.getElementById("output").innerHTML = "رمز وارد شده اشتباه است.لطفا از مدیر وب سایت رمز را دریافت نمایید";
+    }
+}
+
+
+function showinfo() {
+    let elem = document.getElementById("input-info").value;
+    if (elem == "information") {
+        document.getElementById("info-link").style.display = "inline";
+        document.getElementById("output-info").style.display = "none";
+        document.getElementById("form-info").style.display = "none";
+    } else {
+        document.getElementById("output-info").style.color = "rgb(54, 53, 53)";
+        document.getElementById("input-info").value = "";
+        document.getElementById("output-info").innerHTML = "رمز وارد شده اشتباه است.لطفا از مدیر وب سایت رمز را دریافت نمایید";
+    }
+}
+
+
+function showrest() {
+    let elem = document.getElementById("input-rest").value;
+    if (elem == "restourantalireza") {
+        document.getElementById("link-rest").style.display = "inline";
+        document.getElementById("output-rest").style.display = "none";
+        document.getElementById("form-rest").style.display = "none";
+    } else {
+        document.getElementById("output-rest").style.color = "rgb(54, 53, 53)";
+        document.getElementById("input-rest").value = "";
+        document.getElementById("output-rest").innerHTML = "رمز وارد شده اشتباه است.لطفا از مدیر وب سایت رمز را دریافت نمایید";
+    }
+}
+
+
+function showblock() {
+    let elem = document.getElementById("input-blockchain").value;
+    if (elem == "blockchain") {
+        document.getElementById("link-block").style.display = "inline";
+        document.getElementById("output-block").style.display = "none";
+        document.getElementById("form-block").style.display = "none";
+    } else {
+        document.getElementById("output-block").style.color = "rgb(54, 53, 53)";
+        document.getElementById("input-blockchain").value = "";
+        document.getElementById("output-block").innerHTML = "رمز وارد شده اشتباه است.لطفا از مدیر وب سایت رمز را دریافت نمایید";
+    }
+}
+
+$(document).ready(function () {
+    $("#ul-navbar li").first().fadeIn(1000, function nextitem() {
+        $(this).next("li").fadeIn(1000, nextitem);
+    });
+});
+
+let triggerbutton = document.querySelector(".dark-mode-trigger");
+triggerbutton.addEventListener("click", function () {
+    let mybody = document.querySelector("body");
+    mybody.classList.toggle("dark");
+    if (mybody.classList.contains("dark")) {
+        triggerbutton.innerHTML = " <span class='material-symbols-outlined yellow' title='حالت روز'>sunny</span >";
+    } else {
+        triggerbutton.innerHTML = "<span class='material-symbols-outlined white' title='حالت شب'>bedtime_off</span>";
+    }
+});
+
