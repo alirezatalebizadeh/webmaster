@@ -5,8 +5,6 @@ html {
     height: 100%;
 }
 
-
-
 .logo img {
     width: 100%
 }
@@ -54,6 +52,9 @@ html {
     .size-detail {
         font-size: 15px !important
     }
+    .font{
+        font-size: 1.2rem !important;
+    }
 }
 
 @media (max-width: 768px) {
@@ -76,6 +77,9 @@ html {
     .size-detail {
         font-size: 13px !important
     }
+    .font{
+        font-size: .9rem !important;
+    }
 }
 
 @media (max-width: 576px) {
@@ -97,6 +101,13 @@ html {
 
     .size-detail {
         font-size: 11px !important
+    }
+    .font{
+        font-size: .7rem !important;
+    }
+    .d-flex{
+        flex-direction: column !important;
+        padding: 5px !important;
     }
 }
 
@@ -222,6 +233,7 @@ html {
 .blue {
     color: blue
 }
+
 .yellow {
     color: yellow
 }
@@ -289,17 +301,16 @@ html {
 .dark .card-header a {
     color: #000
 }
-.dark .link-git{
+
+.dark .link-git {
     color: rgb(4, 0, 255);
 }
 
+#result,
+#result-time {
+    color: #8a2be2;
+}
 
-
-
-
-
-
-
-
-
-
+.font {
+    font-size: 1.5rem;
+}
