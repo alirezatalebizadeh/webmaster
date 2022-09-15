@@ -52,8 +52,7 @@
       <nav class="navbar navbar-expand-md bg-dark sticky-top rounded-3" dir="ltr">
         <div class="container-fluid">
           <a class="navbar-brand text-white" href="#">webmaster</a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-            data-bs-target="#collapsibleNavbar">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
             <span class="navbar-toggler-icon bg-info rounded text-white">منو</span>
           </button>
           <div class="collapse justify-content-end navbar-collapse" id="collapsibleNavbar">
@@ -197,7 +196,7 @@
                       <b>ادرس گیت
                         هاب:travelo-project.git</b>
                     </a>
-                    <video class="img-fluid my-2" controls poster="/imges/banner-travelo.png">
+                    <video class="img-fluid my-2 video" id="videoone" onplay="videoone()" controls poster="/imges/banner-travelo.png">
                       <source src="/Video_web/translate.mp4" type="video/mp4">
                       <source src="/Video_web/translate.ogg" type="video/ogg">
                     </video>
@@ -225,7 +224,7 @@
                     <p id="output-info"></p>
                     <a id="info-link" class="link-git"
                       href="https://github.com/alirezatalebizadeh/Travel-project.git"><b>Travel-project.git</b></a>
-                    <video class="img-fluid my-2" controls poster="/imges/banner.PNG">
+                    <video class="img-fluid my-2 video" id="videotwo" onplay="videotwo()" controls poster="/imges/banner.PNG">
                       <source src="/Video_web/transit.mp4" type="video/mp4">
                       <source src="/Video_web/transit .ogg" type="video/ogg">
                     </video>
@@ -255,7 +254,8 @@
                       href="https://github.com/alirezatalebizadeh/restourant-design.git">
                       <b>restourant-design.git</b>
                     </a>
-                    <video class="img-fluid my-2" controls poster="/imges/restorant-banner.png">
+                    <video class="img-fluid my-2 video" id="videothree" onplay="videothree()" controls
+                      poster="/imges/restorant-banner.png">
                       <source src="/Video_web/resoran.mp4" type="video/mp4">
                       <source src="/Video_web/resoran.ogg" type="video/ogg">
                     </video>
@@ -283,7 +283,7 @@
                     <a id="link-block" class="link-git" href="https://github.com/alirezatalebizadeh/blockchain.git">
                       <b>blockchain.git</b>
                     </a>
-                    <video class="img-fluid my-2" controls poster="/imges/banner-crypyo.png">
+                    <video class="img-fluid my-2" id="videofour" onplay="videofour()" controls poster="/imges/banner-crypyo.png">
                       <source src="/Video_web/blockchain.mp4" type="video/mp4">
                       <source src="/Video_web/blockchain .ogg" type="video/ogg">
                     </video>
@@ -303,7 +303,9 @@
             aria-hidden="true"></i></a>
         <a class="btn black" target="_blank" href="https://github.com/alirezatalebizadeh"><i class="fab fa-github black"
             aria-hidden="true"></i></a>
-        <a class="btn" target="_blank" href="https://www.linkedin.com/in/%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%B7%D8%A7%D9%84%D8%A8%DB%8C-%D8%B2%D8%A7%D8%AF%D9%87-675388248/"><i class="fab fa-linkedin blue" aria-hidden="true"></i></a>
+        <a class="btn" target="_blank"
+          href="https://www.linkedin.com/in/%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%B7%D8%A7%D9%84%D8%A8%DB%8C-%D8%B2%D8%A7%D8%AF%D9%87-675388248/"><i
+            class="fab fa-linkedin blue" aria-hidden="true"></i></a>
         <a class="btn" target="_blank" href="https://api.whatsapp.com/send?phone=09036439883" title="09036439883">
           <i class="fab fa-whatsapp green"></i>
         </a>

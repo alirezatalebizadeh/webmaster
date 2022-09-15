@@ -115,10 +115,28 @@ function ShowTime() {
     var My_Minute = MyDate.getUTCMinutes();
     var My_Second = MyDate.getUTCSeconds();
     var Result = document.getElementById("result-time");
-    Result.innerHTML = My_Hour + ":" + My_Minute + ":" + My_Second ;
+    Result.innerHTML = My_Hour + ":" + My_Minute + ":" + My_Second;
 }
 
 setInterval(ShowTime, 10);
 
 
+function videoone() {
+    document.getElementById("videotwo").pause();
+    document.getElementById("videothree").pause();
+    document.getElementById("videofour").pause();
+}
+function videotwo() {
+    document.getElementById("videoone").pause();
+    document.getElementById("videothree").pause();
+    document.getElementById("videofour").pause();
+} function videothree() {
+    document.getElementById("videoone").pause();
+    document.getElementById("videotwo").pause();
+    document.getElementById("videofour").pause();
+} function videofour() {
+    document.getElementById("videoone").pause();
+    document.getElementById("videotwo").pause();
+    document.getElementById("videothree").pause();
+}
 
